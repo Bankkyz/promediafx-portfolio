@@ -1,0 +1,4 @@
+@import "tailwindcss";
+/* ถ้าจะทำพื้นดำทั้งเว็บ ชั่วคราวใช้ CSS ธรรมดาไปก่อน (ไม่ใช้ @apply) */
+html, body, #root { height: 100%; }
+body { background:#000; color:#e4e4e7; }
